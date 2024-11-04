@@ -54,7 +54,7 @@ python news.py
 Search for specific topics:
 ```bash
 python news.py --query "who is going to win us election"
-python news.py --query "latest AI developments"
+python news.py --query "AI developments"
 python news.py --query "climate change solutions"
 ```
 
