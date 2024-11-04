@@ -6,7 +6,7 @@ A rather "naive" implementation of how AI-powered search engines might work. Aft
 
 This script:
 1. Searches Bing for your query
-2. Scrapes the top results (respecting robots.txt)
+2. Crawls the top results (respecting robots.txt)
 3. Uses GPT-4 to analyze and summarize the articles
 4. Presents a clean, formatted summary with source attribution
 
