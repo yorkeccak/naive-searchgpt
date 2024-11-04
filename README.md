@@ -71,23 +71,33 @@ python news.py --query "cryptocurrency trends" --articles 3
 ## Example Output
 
 ```
+╭────────────────────────────────────────────────────────────╮
+│ 🔍 Fetching news about: who is going to win us election... │
+╰────────────────────────────────────────────────────────────╯
 📋 Found Articles
-├── Biden vs Trump: Latest Polls and Predictions for 2024
-├── Analysis: Key Battleground States in Presidential Race
-└── Electoral College Projections for November
+├── • US election 2024 results: When will we know who won?
+├── • Who Is Favored To Win The 2024 Presidential Election?
+├── • US election polls: Who is ahead - Harris or Trump? - BBC
+├── • Harris v Trump: 2024 presidential election prediction model
+└── • Who will win the US election? Our experts’ final predictions
 
-🤖 Generating summary...
+Skipping https://www.economist.com/interactive/us-2024-election/prediction-model/president (blocked by robots.txt)
+╭──────────────────────────╮
+│ 🤖 Generating summary... │
+╰──────────────────────────╯
 
-📰 2024 US Presidential Election Overview
+📰 Who Will Win the US Presidential Election 2024?
 
-### Current State of the Presidential Race
+US election 2024 results: When will we know who won?                                  
 
-* Recent polls show a tight race between incumbent Joe Biden and Donald Trump
-* Key battleground states like Pennsylvania, Michigan, and Georgia remain crucial
-* Economic factors and voter turnout expected to play decisive roles
-* Both campaigns focusing on swing voters and demographic shifts
+ • The election process on November 5 may not immediately yield a clear winner due to potential close races and        
+   recounts.                                                                                                           
+ • Key swing states like Pennsylvania, Michigan, and Arizona are crucial and their results may finalize the election   
+   outcome.                                                                                                            
+ • Recent changes in election administration, and fewer mail-in votes compared to 2020, could lead to quicker results. 
+ • The election could still be prolonged, as in the past, where final outcomes were declared days or weeks later.      
 
-*Source: [Political Analysis Weekly](https://example.com/analysis)*
+Source: BBC News   
 
 ...
 ```
