@@ -122,13 +122,3 @@ MIT License - See LICENSE file for details
 ## Disclaimer
 
 This is an educational project demonstrating basic concepts. For production use, consider rate limiting, caching, and proper error handling. Always respect websites' terms of service and robots.txt when scraping.
-```
-
-You might also want to create a `requirements.txt` file:
-
-```text:requirements.txt
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-openai>=1.3.0
-python-dotenv>=1.0.0
-rich>=13.7.0
