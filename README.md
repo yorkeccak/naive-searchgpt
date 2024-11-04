@@ -1,6 +1,6 @@
 # Naive SearchGPT
 
-A simple implementation exploring the concept behind AI-powered search engines. This project demonstrates a basic approach to how systems like SearchGPT might work, by crawling web content and using AI to generate coherent summaries.
+A rather "naive" implementation of how AI-powered search engines might work. After [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) released just a few days ago, I noticed that the search results are literally just the top few bing search results - so I thought, that doesn't sound that hard. 2 hrs later, here we are. This project demonstrates a basic approach to how systems like SearchGPT might work, by crawling web content and using gpt-4o to generate coherent summaries with source attribution and links back to the original content.
 
 ## Overview
 
